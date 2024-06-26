@@ -39,6 +39,7 @@ elasticsearch:7.10.1
 zookeeper:latest
 kibana:7.10.1
 bitnami/zookeeper:3.8
-
-
+bitnami/consul:1.19.0
+bitnami/nginx:1.27.0
+bitnami/redis-cluster:7.2.5
 --platform=linux/arm64 xiaoyaliu/alist
