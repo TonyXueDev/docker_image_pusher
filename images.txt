@@ -42,4 +42,13 @@ bitnami/zookeeper:3.8
 bitnami/consul:1.19.0
 bitnami/nginx:1.27.0
 bitnami/redis-cluster:7.2.5
+registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.10.0
+grafana/grafana:9.3.16
+registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.7.0
+jimmidyson/configmap-reload:v0.5.0
+
+
+
+
+
 --platform=linux/arm64 xiaoyaliu/alist
