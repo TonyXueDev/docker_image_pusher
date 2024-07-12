@@ -1,5 +1,5 @@
 
-directxman12/k8s-prometheus-adapter:v0.8.4
+grafana/grafana:7.5.4
 
 
 --platform=linux/arm64 xiaoyaliu/alist
