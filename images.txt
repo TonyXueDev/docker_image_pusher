@@ -1,7 +1,6 @@
 
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-mysql:5.7
-mysql:8.0.30
-docker.io/bitnami/mysql:8.4
+rabbitmq:3.12.0-management 
+nacos-server:v2.2.3
+nacos-server:v2.0.3
 
 --platform=linux/arm64 xiaoyaliu/alist
