@@ -1,1 +1,2 @@
-mysql:5.7.44
+bellsoft/liberica-openjdk-alpine:17.0.12-10
+bellsoft/liberica-openjre-alpine:17.0.12-10
