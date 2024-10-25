@@ -1,1 +1,1 @@
-ghcr.io/open-webui/open-webui:main
+eclipse-temurin:8-jre
