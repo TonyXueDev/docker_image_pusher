@@ -1,2 +1,2 @@
 
-emqx/emqx-enterprise:5.6.1
+emqx/mqttx-web
