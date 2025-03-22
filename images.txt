@@ -1,1 +1,5 @@
-infiniflow/ragflow:v0.15.1
+mysql:8
+redis:6.2
+victoriametrics/victoria-metrics:v1.79.12
+flashcatcloud/nightingale:latest
+flashcatcloud/categraf:latest
