@@ -1,5 +1,5 @@
-mysql:8
-redis:6.2
-victoriametrics/victoria-metrics:v1.79.12
-flashcatcloud/nightingale:latest
-flashcatcloud/categraf:latest
+knowstreaming/knowstreaming-manager:latest
+knowstreaming/knowstreaming-ui:latest
+docker.io/library/elasticsearch:7.6.2
+knowstreaming/knowstreaming-manager:latest
+knowstreaming/knowstreaming-mysql:latest
