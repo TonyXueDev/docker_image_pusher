@@ -1,5 +1,4 @@
-knowstreaming/knowstreaming-manager:latest
-knowstreaming/knowstreaming-ui:latest
+knowstreaming/knowstreaming-manager:0.7.0
+knowstreaming/knowstreaming-ui:0.7.0
 docker.io/library/elasticsearch:7.6.2
-knowstreaming/knowstreaming-manager:latest
-knowstreaming/knowstreaming-mysql:latest
+knowstreaming/knowstreaming-mysql:0.7.0
