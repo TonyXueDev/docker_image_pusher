@@ -1,1 +1,1 @@
-postgres:11.14
+docker.io/bitnami/postgresql:14.2.0-debian-10-r45
