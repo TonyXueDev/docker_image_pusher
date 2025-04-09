@@ -1,1 +1,1 @@
-docker.io/bitnami/postgresql:14.2.0-debian-10-r45
+apache/rocketmq:5.2.0
