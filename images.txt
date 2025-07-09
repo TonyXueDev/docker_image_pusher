@@ -1,1 +1,1 @@
-nextcloud/all-in-one:latest
+mysql:8.0
