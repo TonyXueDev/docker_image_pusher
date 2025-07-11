@@ -1,1 +1,2 @@
-docker.io/openjdk:17
+eclipse-temurin:17-jdk
+eclipse-temurin:17-jre
