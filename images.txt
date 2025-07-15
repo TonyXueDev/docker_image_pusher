@@ -1,1 +1,1 @@
-openjdk:21
+tdengine/tdengine:3.3.3.0
